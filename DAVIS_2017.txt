@@ -1,0 +1,72 @@
+Evaluating sequences for the semi-supervised task...
+Global results saved in ../PMVOS_test/outputs/DAVIS17_val/global_results-val.csv
+Per-sequence results saved in ../PMVOS_test/outputs/DAVIS17_val/per-sequence_results-val.csv
+--------------------------- Global results for val ---------------------------
+ J&F-Mean    J-Mean  J-Recall   J-Decay    F-Mean  F-Recall   F-Decay
+ 0.739701  0.711928  0.818783  0.127001  0.767474   0.88216  0.136761
+
+---------- Per sequence results for val ----------
+            Sequence    J-Mean    F-Mean
+       bike-packing1  0.763567  0.782168
+       bike-packing2  0.811338  0.785265
+          blackswan1  0.950481  0.975945
+          bmx-trees1  0.325856  0.789089
+          bmx-trees2  0.694692  0.874021
+         breakdance1  0.804554  0.836112
+              camel1  0.947493  0.964064
+     car-roundabout1  0.972591  0.945226
+         car-shadow1  0.963096  0.996828
+               cows1  0.952950  0.977471
+        dance-twirl1  0.750366  0.790966
+                dog1  0.952038  0.973635
+          dogs-jump1  0.102396  0.135805
+          dogs-jump2  0.572152  0.724562
+          dogs-jump3  0.894331  0.938607
+      drift-chicane1  0.891208  0.971900
+     drift-straight1  0.933734  0.919912
+               goat1  0.894369  0.905712
+          gold-fish1  0.818281  0.803046
+          gold-fish2  0.734482  0.748412
+          gold-fish3  0.801193  0.829579
+          gold-fish4  0.912525  0.948259
+          gold-fish5  0.874818  0.831057
+     horsejump-high1  0.814670  0.915236
+     horsejump-high2  0.719844  0.909034
+              india1  0.849611  0.809277
+              india2  0.627395  0.604381
+              india3  0.549369  0.523710
+               judo1  0.874110  0.904795
+               judo2  0.822001  0.854870
+          kite-surf1  0.235824  0.637418
+          kite-surf2  0.201027  0.338099
+          kite-surf3  0.702018  0.868462
+           lab-coat1  0.094968  0.387937
+           lab-coat2  0.037992  0.186590
+           lab-coat3  0.894561  0.832622
+           lab-coat4  0.843970  0.722555
+           lab-coat5  0.874680  0.836852
+              libby1  0.852973  0.958470
+            loading1  0.957949  0.940320
+            loading2  0.479421  0.513824
+            loading3  0.857332  0.916324
+        mbike-trick1  0.659759  0.726855
+        mbike-trick2  0.734794  0.787523
+     motocross-jump1  0.421638  0.493560
+     motocross-jump2  0.770131  0.696349
+ paragliding-launch1  0.724267  0.795158
+ paragliding-launch2  0.668865  0.827156
+ paragliding-launch3  0.083951  0.260555
+            parkour1  0.934279  0.968803
+               pigs1  0.888551  0.887415
+               pigs2  0.513019  0.557037
+               pigs3  0.945629  0.910528
+      scooter-black1  0.600388  0.778437
+      scooter-black2  0.777745  0.762874
+           shooting1  0.165712  0.166660
+           shooting2  0.833134  0.795393
+           shooting3  0.872808  0.936048
+            soapbox1  0.838963  0.842196
+            soapbox2  0.710627  0.744700
+            soapbox3  0.675138  0.770259
+
+Total time:79.982266664505
