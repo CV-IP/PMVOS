@@ -1,9 +1,9 @@
 # PMVOS: Pixel-Level Matching-Based Video Object Segmentation
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pmvos-pixel-level-matching-based-video-object/video-object-segmentation-on-youtube-vos)](https://paperswithcode.com/sota/video-object-segmentation-on-youtube-vos?p=pmvos-pixel-level-matching-based-video-object)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pmvos-pixel-level-matching-based-video-object/visual-object-tracking-on-davis-2016)](https://paperswithcode.com/sota/visual-object-tracking-on-davis-2016?p=pmvos-pixel-level-matching-based-video-object)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pmvos-pixel-level-matching-based-video-object/visual-object-tracking-on-davis-2017)](https://paperswithcode.com/sota/visual-object-tracking-on-davis-2017?p=pmvos-pixel-level-matching-based-video-object)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pmvos-pixel-level-matching-based-video-object/video-object-segmentation-on-youtube-vos)](https://paperswithcode.com/sota/video-object-segmentation-on-youtube-vos?p=pmvos-pixel-level-matching-based-video-object)
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pmvos-pixel-level-matching-based-video-object/semi-supervised-video-object-segmentation-on-1)](https://paperswithcode.com/sota/semi-supervised-video-object-segmentation-on-1?p=pmvos-pixel-level-matching-based-video-object)
 
 #### Suhwan Cho, Heansung Lee, Sungmin Woo, Sungjun Jang, Sangyoun Lee
 
@@ -19,7 +19,7 @@
 [[pre-trained model]](https://drive.google.com/file/d/189Vx0ow8LZ3bQowH3Tgiu3WIe7swur1f/view?usp=sharing)
 
 
-[[pre-computed results]](https://drive.google.com/file/d/1Em5Ryr6m54h5Lv_VLLqHNKXqQfcmIiNf/view?usp=sharing)
+[[pre-computed results]](https://drive.google.com/file/d/1Tl7XVjY0SlAVUdhIx9inRLRmkgwUuwxs/view?usp=sharing)
 
 
 ---
